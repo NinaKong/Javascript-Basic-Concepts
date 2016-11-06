@@ -15,6 +15,6 @@ Javascript Basic Concepts
   - if statement
 - JSONP & Ajax
   - Ajax: through XmlHttpRequest access to non-page content
-  - jsonp: dynamically add <script> tag to invoke the server-provided js script
+  - jsonp: dynamically add <-script-> tag to invoke the server-provided js script
 
 
