@@ -8,4 +8,9 @@ Javascript Basic Concepts
 - document.write()
   - Load an external CSS file that needs to be used in conjunction with the JS script
   - When writing new page data in a new window
+- Feature Detection
+  -In Keyword
+  -hasOwnPropery() Method
+  -Undefined
+  -If statement
 
