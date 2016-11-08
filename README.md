@@ -13,8 +13,9 @@ Javascript Basic Concepts
   - hasOwnPropery() Method
   - undefined
   - if statement
-- JSONP & Ajax
+- JSONP & AJAX
   - Ajax: through XmlHttpRequest access to non-page content
   - jsonp: dynamically add <-script-> tag to invoke the server-provided js script
+- attribute and property
 
 
