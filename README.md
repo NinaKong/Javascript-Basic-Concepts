@@ -17,5 +17,6 @@ Javascript Basic Concepts
   - Ajax: through XmlHttpRequest access to non-page content
   - jsonp: dynamically add <-script-> tag to invoke the server-provided js script
 - attribute and property
+- debugging JavaScript code
 
 
