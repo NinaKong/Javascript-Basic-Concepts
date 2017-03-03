@@ -19,5 +19,7 @@ Javascript Basic Concepts
 - attribute and property
 - debugging JavaScript code
 - event bubble
+- using JavaScript, AJAX, and weather API to create a simple weather reader web page
+
 
 
